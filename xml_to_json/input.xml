@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <book id="1">
+    <title>A Tale of Two Cities</title>
+    <author>Charles Dickens</author>
+    <price>19.99</price>
+    <category>Fiction</category>
+  </book>
+  <book id="2">
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <price>15.99</price>
+    <category>Fiction</category>
+  </book>
+  <book id="3">
+    <title>Periyasamy</title>
+    <author>F. Scott Fitzgerald</author>
+    <price>24.99</price>
+    <category>Fiction</category>
+  </book>
+</catalog>
